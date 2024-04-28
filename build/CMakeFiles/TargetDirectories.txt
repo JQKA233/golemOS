@@ -1,0 +1,3 @@
+/home/dar/golemOS/build/CMakeFiles/edit_cache.dir
+/home/dar/golemOS/build/CMakeFiles/rebuild_cache.dir
+/home/dar/golemOS/build/CMakeFiles/GOLEM.dir
